@@ -12,6 +12,7 @@
 #install.packages("Shiny")
 #install.packages('rsconnect')
 install.packages("rjson")
+install.packages("vgam")
 
 # Key packages data wrangling and visualization
 #install.packages("dplyr")  
